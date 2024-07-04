@@ -1,3 +1,3 @@
 # learn-scripting
 
-Hello world we are learning bash shell  scripting
+Hello world we are learning bash shell  scripting as fav
